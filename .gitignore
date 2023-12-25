@@ -1,9 +1,3 @@
-node_modules
-.DS_Store
-.vs_code
-vs_code
-Thumbs.db
-
 # Logs
 logs
 *.log
